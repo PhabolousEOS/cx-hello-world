@@ -3,7 +3,7 @@
 
 Hi Tlale!
 
-Phoebe here. Have you setup your Github account? I need to download and familiarize myself with VS code. 
+Phoebe here. Have you setup your Github account? I need to finish downloading Git and familiarize myself with VS code ( Virtual Studio code). 
 I just love coding! Don't you? Sometimes we get stuck but we NEVER give up. Let's learn how to use this platform well.
 Paired with Consistency, studying programming languages a little each day, and a POSITIVE MINDSET NOTHING can stop us.
 
